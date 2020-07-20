@@ -1,0 +1,7 @@
+com.zoiper.zdk
+com.zoiper.zdk.Configurations
+com.zoiper.zdk.Controllers
+com.zoiper.zdk.EventHandlers
+com.zoiper.zdk.Providers
+com.zoiper.zdk.Types
+com.zoiper.zdk.Types.Zrtp
